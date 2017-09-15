@@ -3,7 +3,7 @@ Exploring grunt and basic automation/testing
 
 # resources
 - https://gruntjs.com/
-- https://gruntjs.com/project-scaffolding
+- http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
 - https://semaphoreci.com/community/tutorials/getting-started-with-grunt-js
 - https://github.com/tomBrossart/antares-grunt-es6
 
@@ -22,14 +22,14 @@ Exploring grunt and basic automation/testing
 
 # Action Plan -- learning projects
 - [Project 1]
-  - Description:
-  - Duration:
+  - Description: Get started with Uglify
+  - Duration: 2 hours
 - [Project 2]
-  - Description:
-  - Duration:
+  - Description: Get started with Sass -- first get overivew of Sass
+  - Duration: 4 hours
 - [Project 3]
-  - Description:
-  - Duration:
+  - Description: Get started with ImageMin -- refactor Pet Hotel?
+  - Duration: 4 minutes
 - [Project 4]
-  - Description:
-  - Duration:
+  - Description: Refactor carFree app to use Grunt for minification and unit testing.
+  - Duration: 6 hours
